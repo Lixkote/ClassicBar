@@ -1,4 +1,4 @@
-﻿![alt text](https://github.com/Lixkote/ModernBar/blob/master/logo.png "ModernBar")
+﻿![alt text](https://github.com/Lixkote/ModernBar/blob/master/logo.png "ClassicBar")
 
 
 Makes yours Windows 11 Shell simpler by replacing your modern Windows taskbar with the classic Windows taskbar layout.
