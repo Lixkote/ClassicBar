@@ -1,9 +1,9 @@
 ﻿![alt text](https://github.com/Lixkote/ModernBar/blob/master/logo.png "ClassicBar")
 
 
-Makes yours Windows 11 Shell simpler by replacing your modern Windows taskbar with the classic Windows taskbar layout.
+Makes yours Windows Shell simpler by replacing your modern Windows taskbar with the classic Windows taskbar layout.
 
-ModernBar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShell) library for great compatibility and performance and on [RetroBar] (https://github.com/dremin/RetroBar) by Dremin.
+ClassicBar is based on the [ManagedShell](https://github.com/cairoshell/ManagedShell) library for great compatibility and performance and on [RetroBar] (https://github.com/dremin/RetroBar) by Dremin.
 It also uses [WPF UI] (https://github.com/lepoco/wpfui) and [FluentWPF](https://github.com/sourcechord/FluentWPF)
 
 ## Requirements
@@ -15,7 +15,7 @@ It also uses [WPF UI] (https://github.com/lepoco/wpfui) and [FluentWPF](https://
 ﻿![alt text](https://github.com/Lixkote/ModernBar/blob/master/properties.png "properties")
 
 ## Features
-- Replaces default Windows 11 taskbar with classic layout
+- Replaces default Windows taskbar with classic layout one
 - Native notification area with balloon notification support
 - Native task list with UWP app support and drag reordering
 - Quick launch toolbar
@@ -59,8 +59,8 @@ It also uses [WPF UI] (https://github.com/lepoco/wpfui) and [FluentWPF](https://
 - Vietnamese (Tiếng Việt)
 
 ## Custom themes
-ModernBar supports custom themes. To use custom themes, create a `Themes` directory in the same directory as `ModernBar.exe`, and place valid `.xaml` theme files there.
-You can also use the original RetroBar Themes With ModernBar, downloading them from RetroBar repository and placing them into the `Themes` directory existing in the same directory as `ModernBar.exe`.
+ClassicBar supports custom themes. To use custom themes, create a `Themes` directory in the same directory as `ClassicBar.exe`, and place valid `.xaml` theme files there.
+You can also use the original RetroBar Themes With ClassicBar, downloading them from RetroBar repository and placing them into the `Themes` directory existing in the same directory as `ClassicBar.exe`.
 
 Themes use the XAML `ResourceDictionary` format. [View the RetroBar example themes](https://github.com/dremin/RetroBar/tree/master/RetroBar/Themes) to get started.
 
